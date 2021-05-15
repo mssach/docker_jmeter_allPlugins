@@ -1,2 +1,1 @@
-# docker_jmeter_allPlugins
-Docker image of jmeter with all possible plugins
+# Docker Image of jmeter with all possible Plugins
