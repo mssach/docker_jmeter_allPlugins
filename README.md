@@ -9,3 +9,7 @@ This image eliminates the need of copying the required jar files which is tediou
 Build arguments are default values if not passed while building:
 
 JMETER_VERSION - JMeter version, default 5.4.1 To build with another version use env variable: export JMETER_VERSION=5.4.1
+
+## From [Dockerhub](https://hub.docker.com/r/mssach/jmeter_with_all_plugins "Jmeter Image Homepage")
+
+Pull from Dockerhub using following command: **docker pull mssach/jmeter_with_all_plugins**
